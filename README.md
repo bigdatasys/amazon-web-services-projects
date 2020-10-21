@@ -55,12 +55,12 @@
 ```
 
 # Getting Started with AWS: 
-[github.com/aws](https://github.com/aws) <br />
-[amazon.com/aws](https://amazon.com/aws) <br />
+- [github.com/aws](https://github.com/aws) <br />
+- [amazon.com/aws](https://amazon.com/aws) <br />
 
 # Using the SDK: 
 - Using the SDK with Apache Maven: <br/>
 [docs.aws.amazon.com/sdk-for-java/v1/developer-guide/setup-project-maven.html](https://docs.aws.amazon.com/sdk-for-java/v1/developer-guide/setup-project-maven.html)
 
 # Using GitHub aws-sdk-java: 
-[github.com/aws/aws-sdk-java](https://github.com/aws/aws-sdk-java)
+- [github.com/aws/aws-sdk-java](https://github.com/aws/aws-sdk-java)
