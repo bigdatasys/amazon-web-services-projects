@@ -3,7 +3,9 @@
 ## Dependencies
 * Java: 8
 * Apache Maven: 3.3.0
-* AWS SDK For Java
+* AWS SDK for Java: Core, S3, EC2
+* Apache Spark: 3.0.0
+* Hadoop: 3.3.0
 
 ## Technology stack
 * OpenJDK
@@ -12,6 +14,7 @@
 
 ## Features
 * build plugins: maven-compiler-plugin, maven-assembly-plugin
+* Spark: spark-core_2.12, spark-sql_2.12
 
 # Setup:
 - AWS SDK For Java: <br />
