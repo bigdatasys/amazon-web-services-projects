@@ -9,5 +9,8 @@
         <module name="amazon-web-services-projects" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="amazon-web-services-projects" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
